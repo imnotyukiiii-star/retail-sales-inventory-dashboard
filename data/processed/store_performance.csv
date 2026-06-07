@@ -1,0 +1,6 @@
+store_id,store_name,region,revenue,units_sold,transactions,customer_visits,low_stock_records,conversion_rate
+S001,Denver Outdoor Flagship,Mountain,10727358,94752,55379,1988392,181,0.02785114806335974
+S003,Boston Winter Gear,Northeast,10239404,90751,53041,1910594,166,0.02776152337964005
+S002,Seattle Trail Store,Pacific Northwest,9782068,86712,51131,1800554,144,0.02839737103136035
+S005,San Francisco Summit,West Coast,9295016,82279,47847,1704738,140,0.02806706954382433
+S004,Chicago Urban Outdoor,Midwest,7955334,70656,41052,1477714,70,0.027780747830771044

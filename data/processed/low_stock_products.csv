@@ -1,0 +1,21 @@
+store_id,store_name,product_category,product_name,low_stock_days,average_inventory_level,total_units_sold,total_revenue
+S001,Denver Outdoor Flagship,Accessories,Summit Beanie,30,12.933333333333334,887,30158
+S003,Boston Winter Gear,Accessories,Summit Beanie,29,12.89655172413793,861,29274
+S002,Seattle Trail Store,Accessories,Summit Beanie,29,11.172413793103448,857,29138
+S001,Denver Outdoor Flagship,Accessories,Trail Gloves,28,13.392857142857142,796,35024
+S001,Denver Outdoor Flagship,Accessories,Insulated Bottle,26,15.846153846153847,635,18415
+S003,Boston Winter Gear,Accessories,Trail Gloves,24,11.625,719,31636
+S005,San Francisco Summit,Accessories,Summit Beanie,23,12.73913043478261,691,23494
+S001,Denver Outdoor Flagship,Base Layers,Thermal Crew Base Layer,22,13.5,637,43953
+S005,San Francisco Summit,Accessories,Trail Gloves,22,14.318181818181818,541,23804
+S005,San Francisco Summit,Base Layers,Thermal Crew Base Layer,21,16.19047619047619,502,34638
+S003,Boston Winter Gear,Base Layers,Thermal Crew Base Layer,20,12.35,590,40710
+S002,Seattle Trail Store,Base Layers,Thermal Crew Base Layer,20,13.75,576,39744
+S002,Seattle Trail Store,Fleece,Canyon Fleece Pullover,19,12.31578947368421,542,48238
+S003,Boston Winter Gear,Accessories,Insulated Bottle,19,14.842105263157896,497,14413
+S004,Chicago Urban Outdoor,Accessories,Summit Beanie,17,15.941176470588236,395,13430
+S002,Seattle Trail Store,Accessories,Insulated Bottle,17,14.588235294117647,446,12934
+S002,Seattle Trail Store,Footwear,Trail Runner Shoe,16,12.5625,412,53148
+S003,Boston Winter Gear,Fleece,Canyon Fleece Pullover,16,14.1875,436,38804
+S005,San Francisco Summit,Accessories,Insulated Bottle,16,14.875,402,11658
+S001,Denver Outdoor Flagship,Footwear,Trail Runner Shoe,15,13.933333333333334,388,50052
